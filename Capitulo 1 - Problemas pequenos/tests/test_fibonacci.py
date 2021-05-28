@@ -1,6 +1,5 @@
 import pytest
-
-from fibonacci.listagem import *
+from fibonacci import *
 
 n_target = 25
 target_result = 75025
