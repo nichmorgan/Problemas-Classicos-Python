@@ -1,3 +1,5 @@
+# Teste de git
+
 # Leibniz's Formula
 def calculating_pi(n_terms: int) -> float:
     numerator = 4.
